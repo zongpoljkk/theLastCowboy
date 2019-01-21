@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="background"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="src" path="cowboy"/>
+	<classpathentry kind="src" path="monster"/>
+	<classpathentry kind="src" path="skill"/>
+	<classpathentry excluding="GameWindow/|StartWindow/|SoundEffect/" kind="src" path="audio"/>
+	<classpathentry kind="src" path="GameWindow"/>
+	<classpathentry kind="src" path="StartWindow"/>
+	<classpathentry kind="src" path="SoundEffect"/>
+	<classpathentry excluding="simoherold_avenuex/|Courier_New/|simoherold_avenuex/" kind="src" path="font"/>
+	<classpathentry kind="src" path="item"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
